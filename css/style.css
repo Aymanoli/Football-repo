@@ -1,0 +1,18 @@
+body{
+    margin:0px;
+}
+.container{
+    width:100%;
+}
+.half{
+    width: 50%;
+}
+.half img{
+    width:70%;
+    padding-left:30px;
+    margin-top:30px;
+}
+.half h1 p{
+    padding-left:30px;
+    margin-top:30px;  
+}
